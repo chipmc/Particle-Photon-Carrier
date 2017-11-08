@@ -4,3 +4,5 @@
 *.lck
 
 *.s#*
+
+.DS_Store
