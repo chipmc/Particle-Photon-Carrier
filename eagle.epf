@@ -1,5 +1,5 @@
 [Eagle]
-Version="08 03 00"
+Version="08 03 02"
 Platform="Mac OS X"
 Globals="Globals"
 Desktop="Desktop"
@@ -50,10 +50,10 @@ UsedLibrary="/Users/chipmc/Documents/Personal/Maker/Eagle/Custom_Libraries/Spark
 
 [Win_1]
 Type="Control Panel"
-Loc="0 -22 1199 617"
+Loc="80 58 1279 697"
 State=2
 Number=0
 
 [Desktop]
-Screen="640 480"
+Screen="1920 1200"
 Window="Win_1"
