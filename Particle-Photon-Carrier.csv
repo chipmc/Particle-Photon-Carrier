@@ -1,51 +1,44 @@
-"Part";"Value";"Device";"Package";"Description";"PROD_ID";"SF_ID";"VALUE";
-"ANALOG";"";"CONN_083.5MM-8";"SCREWTERMINAL-3.5MM-8";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";
-"C1";"1.0uF";"1.0UF-0805-25V-10%";"0805";"1µF ceramic capacitors";"CAP-08064";"";"1.0uF";
-"D1";"3A/40V/500mV";"DIODE-SCHOTTKY-B340A";"SMA-DIODE";"Schottky diode";"DIO-09886";"";"3A/40V/500mV";
-"D2";"3A/40V/500mV";"DIODE-SCHOTTKY-B340A";"SMA-DIODE";"Schottky diode";"DIO-09886";"";"3A/40V/500mV";
-"DIGITAL";"";"CONN_083.5MM-8";"SCREWTERMINAL-3.5MM-8";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";
-"F1";"500mA - FAST BLOW";"PPTC_HALF-AMP";"1206";"Resettable Fuse PPTC";"RES-08585";"";"6V/0.5A";
-"F2";"500mA - FAST BLOW";"PPTC_HALF-AMP";"1206";"Resettable Fuse PPTC";"RES-08585";"";"6V/0.5A";
-"F3";"1.5A - SLOW BLOW";"PPTC_HALF-AMP";"1206";"Resettable Fuse PPTC";"RES-08585";"";"6V/0.5A";
-"F4";"500mA - FAST BLOW";"PPTC_HALF-AMP";"1206";"Resettable Fuse PPTC";"RES-08585";"";"6V/0.5A";
-"FD1";"FIDUCIALUFIDUCIAL";"FIDUCIALUFIDUCIAL";"FIDUCIAL-MICRO";"Fiducial Alignment Points";"";"";"";
-"FD2";"FIDUCIALUFIDUCIAL";"FIDUCIALUFIDUCIAL";"FIDUCIAL-MICRO";"Fiducial Alignment Points";"";"";"";
-"FRAME1";"FRAME-LETTER";"FRAME-LETTER";"CREATIVE_COMMONS";"Schematic Frame - Letter";"";"";"";
-"J1";"";"CONN_023.5MM";"SCREWTERMINAL-3.5MM-2";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"CONN-08399";"";"";
-"J2";"5V @ 2A";"JST_2MM_MALE";"JST-2-SMD";"JST 2MM MALE RA CONNECTOR";"CONN-11443";"PRT-08612";"";
-"J3";"";"CONN_03LOCK";"1X03_LOCK";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";
-"J4";"";"CONN_023.5MM";"SCREWTERMINAL-3.5MM-2";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"CONN-08399";"";"";
-"JP3";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";"";"";
-"JP4";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";"";"";
-"JP5";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";"";"";
-"JP6";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";"";"";
-"LED1";"";"LEDCHIPLED_0805";"CHIPLED_0805";"LED";"";"";"";
-"LED2";"";"LEDCHIPLED_0805";"CHIPLED_0805";"LED";"";"";"";
-"PHOTON";"PHOTON_WITH_HEADERS";"PHOTON_WITH_HEADERS";"PHOTON";"Particle Photon Wi-Fi through-hole development board footprint";"";"";"";
-"R1";"100k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R2";"25k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R3";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R4";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R5";"100k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R6";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R7";"100k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R8";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R9";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R10";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R11";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R12";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R13";"4.7k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R14";"4.7k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R15";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R16";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R17";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R18";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"R19";"1k";"R-US_R0805";"R0805";"RESISTOR, American symbol";"";"";"";
-"SWITCH";"IRF6201PBF";"IRF6201PBF";"SO8-GW300";"IRF6201 - N-MOSFET  Specifications from: http://www.irf.com/product-info/datasheets/data/irf6201pbf.pdf";"";"";"";
-"SWITCH1";"IRF6201PBF";"IRF6201PBF";"SO8-GW300";"IRF6201 - N-MOSFET  Specifications from: http://www.irf.com/product-info/datasheets/data/irf6201pbf.pdf";"";"";"";
-"TVS-DIODE";"D5V0L4B5TS";"D5V0L4B5TS";"SOT-23-5";"4 CHANNEL LOW CAPACITANCE BI-DIRECTIONAL TVS ARRAY";"";"";"";
-"V1";"VC080505C150DP ";"VARISTOR";"0805";"";"";"";"";
-"V2";"VC080505C150DP ";"VARISTOR";"0805";"";"";"";"";
-"V3";"VC080505C150DP ";"VARISTOR";"0805";"";"";"";"";
-"V4";"VC080505C150DP ";"VARISTOR";"0805";"";"";"";"";
-"WATCHDOG";"TPL5010";"TPL5010";"TSOT-23";"";"";"";"";
+Part,Value,Device,Package,Description,Digikey Part Number
+ANALOG,,CONN_083.5MM-8,SCREWTERMINAL-3.5MM-8,3.5mm horizontal with board screw terminal,277-1725-ND
+C1,1.0uF,1.0UF-0805-25V-10%,805,1µF ceramic capacitors,311-1365-1-ND
+D1,3A/40V/500mV,DIODE-SCHOTTKY-B340A,SMA-DIODE,Schottky diode,MBR0540CT-ND
+D2,3A/40V/500mV,DIODE-SCHOTTKY-B340A,SMA-DIODE,Schottky diode,MBR0540CT-ND
+DIGITAL,,CONN_083.5MM-8,SCREWTERMINAL-3.5MM-8,3.5mm horizontal with board screw terminal,277-1725-ND
+F1,500mA - FAST BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F2569CT-ND
+F2,500mA - FAST BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F2569CT-ND
+F3,1.5A - SLOW BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F3156CT-ND
+F4,500mA - FAST BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F2569CT-ND
+J1,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399
+J2,5V @ 2A,JST_2MM_MALE,JST-2-SMD,JST 2MM MALE RA CONNECTOR,CONN-11443
+J3,,CONN_03LOCK,1X03_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,732-5334-ND
+J4,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,3.5mm horizontal with board screw terminal,277-15481-ND
+LED1,,LEDCHIPLED_0805,CHIPLED_0805,LED,475-1410-1-ND
+LED2,,LEDCHIPLED_0805,CHIPLED_0805,LED,475-1410-1-ND
+PHOTON,PHOTON_WITH_HEADERS,PHOTON_WITH_HEADERS,PHOTON,Particle Photon Wi-Fi through-hole development board footprint,HDR100IMP40F-G-V-TH-ND
+R1,100k,R-US_R0805,R0805,"RESISTOR, American symbol",RMCF0805FT100KCT-ND
+R2,25k,R-US_R0805,R0805,"RESISTOR, American symbol",A124124CT-ND
+R3,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R4,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R5,100k,R-US_R0805,R0805,"RESISTOR, American symbol",RMCF0805FT100KCT-ND
+R6,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R7,100k,R-US_R0805,R0805,"RESISTOR, American symbol",RMCF0805FT100KCT-ND
+R8,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R9,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R10,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R11,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R12,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R13,4.7k,R-US_R0805,R0805,"RESISTOR, American symbol",311-4.70kCRCT-ND
+R14,4.7k,R-US_R0805,R0805,"RESISTOR, American symbol",311-4.70kCRCT-ND
+R15,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R16,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R17,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R18,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+R19,1k,R-US_R0805,R0805,"RESISTOR, American symbol",311-1.0KCRCT-ND
+SWITCH,IRF6201PBF,IRF6201PBF,SO8-GW300,IRF6201 - N-MOSFET,IRF6201PBF-ND
+SWITCH1,IRF6201PBF,IRF6201PBF,SO8-GW300,IRF6201 - N-MOSFET,IRF6201PBF-ND
+TVS-DIODE,D5V0L4B5TS,D5V0L4B5TS,SOT-23-5,4 CHANNEL LOW CAPACITANCE BI-DIRECTIONAL TVS ARRAY,D5V0L4B5TS-7DICT-ND
+V1,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
+V2,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
+V3,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
+V4,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
+WATCHDOG,TPL5010,TPL5010,TSOT-23,Watchdog Timer IC,296-44392-1-ND
