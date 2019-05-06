@@ -8,9 +8,9 @@ F1,500mA - FAST BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F2569CT-ND
 F2,500mA - FAST BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F2569CT-ND
 F3,1.5A - SLOW BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F3156CT-ND
 F4,500mA - FAST BLOW,PPTC_HALF-AMP,1206,Resettable Fuse PPTC,F2569CT-ND
-J1,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,CONN-08399
-J2,5V @ 2A,JST_2MM_MALE,JST-2-SMD,JST 2MM MALE RA CONNECTOR,CONN-11443
-J3,,CONN_03LOCK,1X03_LOCK,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,732-5334-ND
+J1,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,277-15481-ND
+J2,5V @ 2A,JST_2MM_MALE,JST-2-SMD,JST 2MM MALE RA CONNECTOR,455-1749-1-ND
+J3,,CONN_03LOCK,1X03_LOCK,Female 0.1” header - optional in case you don’t want to solder the DC-Dco converter directly to the board,HDR100IMP40F-G-V-TH-ND
 J4,,CONN_023.5MM,SCREWTERMINAL-3.5MM-2,3.5mm horizontal with board screw terminal,277-15481-ND
 LED1,,LEDCHIPLED_0805,CHIPLED_0805,LED,475-1410-1-ND
 LED2,,LEDCHIPLED_0805,CHIPLED_0805,LED,475-1410-1-ND
@@ -42,3 +42,4 @@ V2,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
 V3,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
 V4,VC080505C150DP,VARISTOR,805,Varistor for Circuit protection,478-2507-1-ND
 WATCHDOG,TPL5010,TPL5010,TSOT-23,Watchdog Timer IC,296-44392-1-ND
+DC-DC Converter,OKI-78SR-5/1.5-W36-C,DC-DC Converter,0.1” Male headers,12V to 5V High Effifiency Buck Converter,811-2196-5-ND
